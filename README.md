@@ -4,7 +4,7 @@ Welcome to the LeetCode Solution repository! This repository contains solutions 
 
 ## Problem Statements
 
-You can find the problem statements for each solution by clicking on the LeetCode logo above or by visiting [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/description/).
+You can find the problem statements for each solution by clicking on the LeetCode logo above or by visiting [LeetCode](https://leetcode.com/).
 
 ## How to Use
 
