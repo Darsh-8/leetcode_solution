@@ -24,15 +24,9 @@ If you would like to contribute to this repository, please follow these guidelin
 5. Commit your changes and push to your forked repository.
 6. Submit a pull request, clearly describing the problem you solved and the changes made.
 
-## Folder Structure
-
-- Each problem has its own folder named after the problem title.
-- Inside the problem folder, you will find solutions in different programming languages.
-- Explanatory README files are provided for each problem folder.
-
 ## Complexity Analysis
 
-For each solution, the time and space complexity are analyzed and mentioned in the respective README file.
+For each solution, the time and space complexity are analyzed and mentioned in the respective file.
 
 ## Let's Learn and Solve Together!
 
