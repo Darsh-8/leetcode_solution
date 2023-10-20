@@ -21,7 +21,7 @@ If you would like to contribute to this repository, please follow these guidelin
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and ensure the code works correctly.
 4. Write clear and concise explanations for your solutions.
-5. Commit your changes and push to your forked repository.
+5. Commit your changes and push them to your forked repository.
 6. Submit a pull request, clearly describing the problem you solved and the changes made.
 
 ## Complexity Analysis
